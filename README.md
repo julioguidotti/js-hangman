@@ -1,1 +1,1 @@
-# js-hangman
+# JS-Hangman was my first ever project and focuses on the JS side of it, the game itself does not look pretty nor is it formatted perfectly because i didnt wanted to use CSS and HTMl formatting and tried to creating the game as much as i could in Javascript to help develop my skills in it. The project took insipration from youtube channel Simon Suh whom taught the basics of JS
